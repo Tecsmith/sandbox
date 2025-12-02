@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "rx8130ce")(type "KiCad")(uri "${KIPRJMOD}/rx8130ce.kicad_sym")(options "")(descr ""))
+)
