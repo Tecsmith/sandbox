@@ -2865,7 +2865,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_CSP:WLCSP-6_1.4x1.0mm_P0.4mm"
+			(property "Footprint" "seeed-stuff:WLCSP-0.74×1.09-6B"
 				(at 0 11.43 0)
 				(effects
 					(font
@@ -5290,6 +5290,12 @@
 		(uuid "8c020bcd-e129-4b89-8e4b-40da9d98d64d")
 	)
 	(junction
+		(at 57.15 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "92ea32d1-4abb-4412-aefe-1a3e72ca3a46")
+	)
+	(junction
 		(at 48.26 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5997,6 +6003,16 @@
 	)
 	(wire
 		(pts
+			(xy 57.15 125.73) (xy 57.15 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ec0efc4-1b4c-4f14-8cc1-c76fa7050649")
+	)
+	(wire
+		(pts
 			(xy 48.26 99.06) (xy 48.26 101.6)
 		)
 		(stroke
@@ -6194,6 +6210,16 @@
 			(type default)
 		)
 		(uuid "6e6776c9-872a-440f-98a3-3f1a154187e1")
+	)
+	(wire
+		(pts
+			(xy 57.15 132.08) (xy 58.42 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "730c7b9e-76dc-4f2d-b019-5935fe5e8359")
 	)
 	(wire
 		(pts
@@ -6497,7 +6523,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 132.08) (xy 58.42 132.08)
+			(xy 55.88 132.08) (xy 57.15 132.08)
 		)
 		(stroke
 			(width 0)
@@ -7218,6 +7244,16 @@
 		)
 		(uuid "1188f17f-eef4-4c4b-b356-029a7c72ec44")
 	)
+	(label "SW"
+		(at 57.15 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "19820823-1d9a-4107-81ea-c0ac84567d47")
+	)
 	(label "4"
 		(at 85.09 60.96 180)
 		(effects
@@ -7306,6 +7342,16 @@
 			(justify right bottom)
 		)
 		(uuid "a3878b62-88c7-46ac-b3e8-3f0f9e4c1cda")
+	)
+	(label "MODE"
+		(at 57.15 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c12e3fe5-e7b4-4895-9595-ac7f629be8a8")
 	)
 	(global_label "D-"
 		(shape input)
@@ -11760,7 +11806,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "SGM6029"
 			(at 48.26 127 0)
 			(effects
 				(font
@@ -11768,7 +11814,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_CSP:WLCSP-6_1.4x1.0mm_P0.4mm"
+		(property "Footprint" "seeed-stuff:WLCSP-0.74×1.09-6B"
 			(at 48.26 125.73 0)
 			(effects
 				(font

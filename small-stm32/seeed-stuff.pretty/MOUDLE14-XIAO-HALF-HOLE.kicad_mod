@@ -330,7 +330,7 @@
 	(pad "1" smd custom
 		(at -8.301 -7.62 90)
 		(size 1.626 1.325)
-		(layers "F.Cu" "F.Mask" "F.Paste")
+		(layers "F.Cu" "F.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -360,7 +360,7 @@
 	(pad "1" smd custom
 		(at -8.301 -7.62 90)
 		(size 1.626 1.325)
-		(layers "B.Cu" "B.Mask" "B.Paste")
+		(layers "B.Cu" "B.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -434,7 +434,7 @@
 	(pad "2" smd custom
 		(at -8.36 -5.08 90)
 		(size 1.626 1.208)
-		(layers "F.Cu" "F.Mask" "F.Paste")
+		(layers "F.Cu" "F.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -464,7 +464,7 @@
 	(pad "2" smd custom
 		(at -8.36 -5.08 90)
 		(size 1.626 1.208)
-		(layers "B.Cu" "B.Mask" "B.Paste")
+		(layers "B.Cu" "B.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -534,7 +534,7 @@
 	(pad "3" smd custom
 		(at -8.301 -2.54 90)
 		(size 1.626 1.325)
-		(layers "F.Cu" "F.Mask" "F.Paste")
+		(layers "F.Cu" "F.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -564,7 +564,7 @@
 	(pad "3" smd custom
 		(at -8.301 -2.54 90)
 		(size 1.626 1.325)
-		(layers "B.Cu" "B.Mask" "B.Paste")
+		(layers "B.Cu" "B.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -634,7 +634,7 @@
 	(pad "4" smd custom
 		(at -8.301 0 90)
 		(size 1.626 1.325)
-		(layers "F.Cu" "F.Mask" "F.Paste")
+		(layers "F.Cu" "F.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -664,7 +664,7 @@
 	(pad "4" smd custom
 		(at -8.301 0 90)
 		(size 1.626 1.325)
-		(layers "B.Cu" "B.Mask" "B.Paste")
+		(layers "B.Cu" "B.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -734,7 +734,7 @@
 	(pad "5" smd custom
 		(at -8.301 2.54 90)
 		(size 1.626 1.325)
-		(layers "F.Cu" "F.Mask" "F.Paste")
+		(layers "F.Cu" "F.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -764,7 +764,7 @@
 	(pad "5" smd custom
 		(at -8.301 2.54 90)
 		(size 1.626 1.325)
-		(layers "B.Cu" "B.Mask" "B.Paste")
+		(layers "B.Cu" "B.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -834,7 +834,7 @@
 	(pad "6" smd custom
 		(at -8.36 5.08 90)
 		(size 1.626 1.208)
-		(layers "F.Cu" "F.Mask" "F.Paste")
+		(layers "F.Cu" "F.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -864,7 +864,7 @@
 	(pad "6" smd custom
 		(at -8.36 5.08 90)
 		(size 1.626 1.208)
-		(layers "B.Cu" "B.Mask" "B.Paste")
+		(layers "B.Cu" "B.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -934,7 +934,7 @@
 	(pad "7" smd custom
 		(at -8.301 7.62 90)
 		(size 1.626 1.325)
-		(layers "F.Cu" "F.Mask" "F.Paste")
+		(layers "F.Cu" "F.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -964,7 +964,7 @@
 	(pad "7" smd custom
 		(at -8.301 7.62 90)
 		(size 1.626 1.325)
-		(layers "B.Cu" "B.Mask" "B.Paste")
+		(layers "B.Cu" "B.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -1033,7 +1033,7 @@
 	(pad "8" smd custom
 		(at 8.255 7.62 270)
 		(size 1.626 1.325)
-		(layers "F.Cu" "F.Mask" "F.Paste")
+		(layers "F.Cu" "F.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -1063,7 +1063,7 @@
 	(pad "8" smd custom
 		(at 8.255 7.62 270)
 		(size 1.626 1.325)
-		(layers "B.Cu" "B.Mask" "B.Paste")
+		(layers "B.Cu" "B.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -1133,7 +1133,7 @@
 	(pad "9" smd custom
 		(at 8.314 5.08 270)
 		(size 1.626 1.208)
-		(layers "F.Cu" "F.Mask" "F.Paste")
+		(layers "F.Cu" "F.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -1163,7 +1163,7 @@
 	(pad "9" smd custom
 		(at 8.314 5.08 270)
 		(size 1.626 1.208)
-		(layers "B.Cu" "B.Mask" "B.Paste")
+		(layers "B.Cu" "B.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -1233,7 +1233,7 @@
 	(pad "10" smd custom
 		(at 8.255 2.54 270)
 		(size 1.626 1.325)
-		(layers "F.Cu" "F.Mask" "F.Paste")
+		(layers "F.Cu" "F.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -1263,7 +1263,7 @@
 	(pad "10" smd custom
 		(at 8.255 2.54 270)
 		(size 1.626 1.325)
-		(layers "B.Cu" "B.Mask" "B.Paste")
+		(layers "B.Cu" "B.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -1333,7 +1333,7 @@
 	(pad "11" smd custom
 		(at 8.255 0 270)
 		(size 1.626 1.325)
-		(layers "F.Cu" "F.Mask" "F.Paste")
+		(layers "F.Cu" "F.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -1363,7 +1363,7 @@
 	(pad "11" smd custom
 		(at 8.255 0 270)
 		(size 1.626 1.325)
-		(layers "B.Cu" "B.Mask" "B.Paste")
+		(layers "B.Cu" "B.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -1433,7 +1433,7 @@
 	(pad "12" smd custom
 		(at 8.255 -2.54 270)
 		(size 1.626 1.325)
-		(layers "F.Cu" "F.Mask" "F.Paste")
+		(layers "F.Cu" "F.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -1463,7 +1463,7 @@
 	(pad "12" smd custom
 		(at 8.255 -2.54 270)
 		(size 1.626 1.325)
-		(layers "B.Cu" "B.Mask" "B.Paste")
+		(layers "B.Cu" "B.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -1533,7 +1533,7 @@
 	(pad "13" smd custom
 		(at 8.314 -5.08 270)
 		(size 1.626 1.208)
-		(layers "F.Cu" "F.Mask" "F.Paste")
+		(layers "F.Cu" "F.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -1563,7 +1563,7 @@
 	(pad "13" smd custom
 		(at 8.314 -5.08 270)
 		(size 1.626 1.208)
-		(layers "B.Cu" "B.Mask" "B.Paste")
+		(layers "B.Cu" "B.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -1633,7 +1633,7 @@
 	(pad "14" smd custom
 		(at 8.255 -7.62 270)
 		(size 1.626 1.325)
-		(layers "F.Cu" "F.Mask" "F.Paste")
+		(layers "F.Cu" "F.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
@@ -1663,7 +1663,7 @@
 	(pad "14" smd custom
 		(at 8.255 -7.62 270)
 		(size 1.626 1.325)
-		(layers "B.Cu" "B.Mask" "B.Paste")
+		(layers "B.Cu" "B.Mask")
 		(solder_mask_margin 0.05)
 		(options
 			(clearance outline)
